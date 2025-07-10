@@ -11,13 +11,15 @@ public class QueueusingStacks {
         stack2 = new Stack<>();
     }
 
+    
     // Enqueue operation
     public void enqueue(int data) {
         stack1.push(data);
         System.out.println("Enqueued: " + data);
     }
 
-    // Dequeue operation
+    
+    // Dequeue operations
     public int dequeue() {
         if (isEmpty()) {
             System.out.println("Queue is empty");
