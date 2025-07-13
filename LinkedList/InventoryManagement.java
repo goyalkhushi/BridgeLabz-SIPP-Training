@@ -1,4 +1,4 @@
-package singlylinkedlist;
+package linkedlist;
 
 //Node class representing an inventory item
 class ItemNode {

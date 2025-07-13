@@ -1,4 +1,4 @@
-package singlylinkedlist;
+package linkedlist;
 
 
 class FriendNode {
